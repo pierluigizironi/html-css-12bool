@@ -1,7 +1,5 @@
-/* Generics */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+[class^="col"] {
+  min-height: 50px;
+  background-color: dodgerblue;
+  border: white solid 1px;
 }
