@@ -152,12 +152,12 @@
   text-align: start;
 }
 
-.content-start {
+.content-center {
   justify-content: center;
   text-align: center;
 }
 
-.content-start {
+.content-end {
   justify-content: flex-end;
   text-align: end;
 }
