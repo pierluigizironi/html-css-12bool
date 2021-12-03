@@ -10,6 +10,10 @@
   min-height: 25px;
 }
 
+.col-large {
+  min-height: 150px;
+}
+
 .container {
   margin-bottom: 50px;
 }
