@@ -173,3 +173,11 @@
 .align-end {
   align-items: flex-end;
 }
+
+.space-around {
+  justify-content: space-around;
+}
+
+.space-between {
+  justify-content: space-between;
+}
