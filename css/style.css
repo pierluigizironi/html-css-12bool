@@ -11,4 +11,9 @@
 .gold {
   background-color: goldenrod;
   border: solid white 1px;
+  min-height: 25px;
+}
+
+.container {
+  margin-bottom: 50px;
 }
