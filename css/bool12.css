@@ -144,3 +144,20 @@
 .offset-11 {
   margin-left: calc(100% / 12 * 11);
 }
+
+/* Alignements */
+
+.content-start {
+  justify-content: flex-start;
+  text-align: start;
+}
+
+.content-start {
+  justify-content: center;
+  text-align: center;
+}
+
+.content-start {
+  justify-content: flex-end;
+  text-align: end;
+}
